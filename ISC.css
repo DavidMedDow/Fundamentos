@@ -1,0 +1,23 @@
+body{background-color: #F5F5F5;}
+
+.lw { font-size: 24px;
+font-family: "Arial Narrow",Arial,sans-serif;
+}
+
+.h1 { font-size: 40PX;
+font-family: "Arial Narrow",Arial,sans-serif;
+}
+
+.h2{font-size: 24PX;
+  font-family: "Arial Narrow",Arial, sans-serif;
+  color: #0000FF;
+  line-height: 80%;
+  margin: 10px;
+  border-style: ridge;
+  border-top-color: #FF0000;
+  border-right-color: #FF0000;
+  border-left-color: #FF0000;
+  border-bottom-color: #FF0000;
+  margin-right: 10%;
+
+}
